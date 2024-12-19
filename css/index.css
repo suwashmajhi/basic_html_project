@@ -1,0 +1,140 @@
+.project{
+    position: absolute;
+    height: 90px;
+    width: 20%;
+    border: 1px solid gray;
+    margin-top: -10px;
+    line-height: 12px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.Calculator{
+    position: absolute;
+    height: 90px;
+    width: 20%;
+    border: 1px solid gray;
+    top: 371px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 27px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.Quiz{
+    position: absolute;
+    height: 91px;
+    width: 20%;
+    border: 1px solid gray;
+    top: 461px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 27px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.Countdown{
+    position: absolute;
+    height: 90px;
+    width: 20%;
+    border: 1px solid gray;
+    top:552px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 27px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.Product{
+    position: absolute;
+    height: 140px;
+    width: 20%;
+    border: 1px solid gray;
+    top: 642px;
+    font-size: 27px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.Work{
+    position: relative;
+    height: 250px;
+    width: 40%;
+    border: 1px solid gray;
+    margin-top: -10px;
+    left: 304px;
+}
+
+.work_text{
+    position:absolute;
+    left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Open_Source{
+    position: relative;
+    height: 250px;
+    width: 40%;
+    border: 1px solid gray;
+    margin-top: -1px;
+    left: 304px;
+}
+
+.Open_Source_text{
+    position:absolute;
+    left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Education{
+    position:absolute;
+    height: 500px;
+    width: 39%;
+    border: 1px solid gray;
+    margin-top:-502px;
+    left: 914px;
+    line-height: 10px;
+}
+.Education_text{
+    position:absolute;
+    left: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Assignments_1{
+    position: absolute;
+    height: 200px;
+    width: 20%;
+    border: 1px solid gray;
+    border-radius: 30px;
+    line-height: 10px;
+    text-align: center;
+    left:200px; 
+}
+.Assignments_2{
+    position: absolute;
+    height: 200px;
+    width: 20%;
+    border: 1px solid gray;
+    border-radius: 30px;
+    line-height: 10px;
+    text-align: center;
+    left:610px;
+}
+.Assignments_3{
+    position: absolute;
+    height: 200px;
+    width: 20%;
+    border: 1px solid gray;
+    border-radius: 30px;
+    line-height: 9px;
+    text-align: center;
+    right:200px; 
+}
+.p{
+    color: gray;
+}
+.footer{
+    text-align: center;
+    position: relative;
+    top: 300px;
+}
+   
+   
+    
